@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=calamityf7" alt="calamityf7" /></a> </p>
 
-- 🔭 I’m currently working on [Python Scripting](https://www.python.org/)
+- ✈️ I’m currently working on [Software Developement]((https://en.wikipedia.org/wiki/C_Sharp_(programming_language)))
 
-- 🌱 I’m currently learning **HTML/CSS and PHP**
+- 💡 I’m currently learning **HTML/CSS and PHP**
 
-- 📫 How to reach me **its_calamity**
+- ✨ How to reach me **its_calamity**
 
 <p align="left">
 </p>
