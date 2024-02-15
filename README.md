@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm CalamityF7</h1>
-<h3 align="center">A simple back-end developer and designer, France</h3>
+<h3 align="center">A Simple Back-end Developer/Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=calamityf7&label=Profile%20views&color=0e75b6&style=flat" alt="calamityf7" /> </p>
 
