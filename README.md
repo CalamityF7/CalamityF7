@@ -9,9 +9,8 @@
 
 - 🌱 I’m currently learning **HTML/CSS and PHP**
 
-- 📫 How to reach me(Discord) **its_calamity**
+- 📫 How to reach me **its_calamity**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
